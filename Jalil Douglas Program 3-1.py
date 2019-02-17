@@ -1,9 +1,4 @@
-#Jalil Douglas
-#DSCI 1530--Computational Thinking and Programming
-#Program No.3
-#Name of Program -- Program Assignment 3 Program No.2
-#1089 and All That
-# Due 2/16/2019
+
 import math
 
 num1 = input("Directions: Choose a three digit number whose first and third digits vary by at least two numbers. I.E 235, 532. ")
